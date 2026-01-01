@@ -7,9 +7,13 @@ The objective is to assess how participants model systems, make assumptions expl
 
 This round also evaluates the ability to sustain attention and logical continuity across problems that cannot be resolved through short or isolated steps.
 
+All concepts, definitions, and context required to solve the problems
+**will be provided during the round**.\
+Participants are not expected to arrive with prior domain-specific preparation.
+
 ---
 
-## Problem Structuring, Modeling, and Strategy
+## 1. Problem Structuring, Modeling, and Strategy
 
 Participants are expected to demonstrate the ability to:
 - Interpret complex or narrative problem statements and extract the governing structure
@@ -22,11 +26,11 @@ Problems are designed such that **modeling choices meaningfully affect outcomes*
 
 ---
 
-## Mathematical, Computational, and Engineering Reasoning
+## 2. Mathematical, Computational, and Engineering Reasoning
 
 The scope of reasoning may broadly involve ideas commonly encountered across engineering and scientific domains, including but not limited to:
 - Balance-based thinking (material, energy, information, or state)
-- Finite and constrained systems
+- Finite, discrete, or bounded systems
 - Iterative, dynamic, or time-evolving behavior
 - Equilibrium, stability, convergence, or limiting behavior
 - Trade-offs between accuracy, complexity, and computational effort
@@ -36,7 +40,7 @@ Participants are **not expected to invoke named theories**, only to reason consi
 
 ---
 
-## Algorithmic Execution and Implementation
+## 3. Algorithmic Execution and Implementation
 
 Where implementation is required, emphasis is placed on:
 - Translating models and reasoning into structured, readable procedures or code
@@ -48,7 +52,7 @@ Clarity of structure and intent is valued alongside correctness.
 
 ---
 
-## Reasoning Transparency and Communication
+## 4. Reasoning Transparency and Communication
 
 Participants are expected to:
 - Make key decisions visible through brief explanations or comments
@@ -59,9 +63,25 @@ The goal is not verbosity, but **clear communication of thought**.
 
 ---
 
+## 5. What This Round Does *Not* Emphasize
+- Memorization of domain-specific formulas
+- Prior exposure to specialized subjects
+- Tool-specific shortcuts or libraries
+- Speed-based problem solving
+
+---
+
 ## Closing Note
 
-Round 2 rewards participants who can **think patiently, model deliberately, and reason coherently** through non-trivial problems that resemble real engineering and scientific work more than textbook exercises.
+If you are comfortable:
+- Reading carefully and structuring problems,
+- Building models from first principles,
+- Explaining your reasoning clearly,
+- Sustaining logical coherence over time,
 
-No specific domain preparation is assumed.  
+then you are within scope for Round 2.
+
+All necessary concepts will be introduced as part of the problems themselves.
+
+No specific domain preparation is assumed.\
 What matters is how well you reason, structure, and adapt.
