@@ -237,3 +237,10 @@ def GenerateDOI(JournamlName,Volume,IssueNo,AuthorFirstName,AuthorLastName,Seria
 print(GenerateDOI("Ultimate Detective",1,2,"satyam","mali",10,2100))
 ```
 
+## Final Note
+
+These solutions are not “model answers”.
+They are examples of *how to think*.
+
+If this file helped you see a problem differently,
+it has done its job.
